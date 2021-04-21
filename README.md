@@ -1,6 +1,8 @@
 # Acamica-Data-Science
 Archivos de la carrera de data science presencial de Acámica, entre septiembre de 2019 y marzo de 2020. A continuación presento los comentarios a las entregas que hice durante la carrera (disponibles en la carpeta "Entregas").
 
+https://acamica.cdn.prismic.io/acamica/3d9d15e7-a70a-4308-a14c-28d55ad8fa58_Plan+de+estudios_Data+Science_2021.pdf
+
 ------------------------------------------------------------------------------------------------------------------
 
 Devolución del mentor de Acámica a la primera entrega:
